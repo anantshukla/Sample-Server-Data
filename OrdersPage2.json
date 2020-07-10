@@ -1,9 +1,9 @@
 {
+    "status": true,
+    "time_to_process": 2123213,
     "drivers": {
         "00001": {
-            "distance": "1",
             "name": "Moti Karpe",
-            "phoneno": "9123456789",
             "routes": [
                 [
                     13.09,
@@ -89,12 +89,12 @@
                     "18:30",
                     "address 14"
                 ]
-            ]
+            ],
+            "distance": "1",
+            "phoneno": "9123456789"
         },
         "00002": {
-            "distance": "1",
             "name": "Naseer Lal Beharry",
-            "phoneno": "0123456789",
             "routes": [
                 [
                     13.100222,
@@ -114,12 +114,12 @@
                     "10:30",
                     "address 4"
                 ]
-            ]
+            ],
+            "distance": "1",
+            "phoneno": "0123456789"
         },
         "00003": {
-            "distance": "1",
             "name": "Nurit",
-            "phoneno": "0123456789",
             "routes": [
                 [
                     13.09,
@@ -151,12 +151,12 @@
                     "10:30",
                     "address 4"
                 ]
-            ]
+            ],
+            "distance": "1",
+            "phoneno": "0123456789"
         },
         "00004": {
-            "distance": "1",
             "name": "Ayub",
-            "phoneno": "0123456789",
             "routes": [
                 [
                     13.09,
@@ -188,12 +188,12 @@
                     "10:30",
                     "address 4"
                 ]
-            ]
+            ],
+            "distance": "1",
+            "phoneno": "0123456789"
         },
         "00005": {
-            "distance": "1",
             "name": "Doron",
-            "phoneno": "0123456789",
             "routes": [
                 [
                     13.09,
@@ -225,12 +225,12 @@
                     "10:30",
                     "address 4"
                 ]
-            ]
+            ],
+            "distance": "1",
+            "phoneno": "0123456789"
         },
         "00006": {
-            "distance": "1",
             "name": "Idan",
-            "phoneno": "0123456789",
             "routes": [
                 [
                     13.09,
@@ -262,9 +262,9 @@
                     "10:30",
                     "address 4"
                 ]
-            ]
+            ],
+            "distance": "1",
+            "phoneno": "0123456789"
         }
-    },
-    "status": true,
-    "time_to_process": 2123213
+    }
 }
