@@ -1,0 +1,46 @@
+{
+	"status": true,
+	"time_to_process": 2123213,
+	"routes": {
+		"1": {
+			"DriverName": "Driver 1",
+			"BatteryStatus": 52,
+			"CurrentLocation": "13.088875, 80.288528",
+			"NextDeliveryLocation": "13.066453, 80.223041",
+			"NextDeliveryAddress": "Sample Address 1",
+			"LastUpdated": "26-05-2020 1245hrs",
+			"current_time": "07:30",
+			"eta_nextlocation": "08:00"
+		},
+		"2": {
+			"DriverName": "Driver 2",
+			"BatteryStatus": 45,
+			"CurrentLocation": "13.120057, 80.225164",
+			"NextDeliveryLocation": "13.119955, 80.286552",
+			"NextDeliveryAddress": "Sample Address 2",
+			"LastUpdated": "24-05-2020 1245hrs",
+			"current_time": "08:30",
+			"eta_nextlocation": "09:00"
+		},
+		"3": {
+			"DriverName": "Driver 3",
+			"BatteryStatus": 65,
+			"CurrentLocation": "13.096357, 80.241691",
+			"NextDeliveryLocation": "13.066453, 80.283041",
+			"NextDeliveryAddress": "Sample Address 3",
+			"LastUpdated": "25-05-2020 1245hrs",
+			"current_time": "09:30",
+			"eta_nextlocation": "10:00"
+		},
+		"4": {
+			"DriverName": "Driver 4",
+			"BatteryStatus": 15,
+			"CurrentLocation": "13.156875, 80.224528",
+			"NextDeliveryLocation": "13.266453, 80.303041",
+			"NextDeliveryAddress": "Sample Address 4",
+			"LastUpdated": "23-05-2020 1245hrs",
+			"current_time": "10:30",
+			"eta_nextlocation": "11:00"
+		}
+	}
+}

@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/anantshukla/Sample-Server-Data/master/[json_file_name.json]

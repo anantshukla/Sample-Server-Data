@@ -1,0 +1,66 @@
+{
+	"status": true,
+	"time_to_process": 2123213,
+	"drivers": {
+		"00001": {
+			"name": "Moti Karpe",
+			"BatteryStatus": 52,
+			"CurrentLocation": "13.101955, 80.286982",
+			"NextDeliveryLocation": "13.170914, 80.21519",
+			"NextDeliveryAddress": "Sample Address 1",
+			"LastUpdated": "26-05-2020 1245hrs",
+			"current_time": "07:30",
+			"eta_nextlocation": "08:00"
+		},
+		"00002": {
+			"name": "Naseer Lal Beharry",
+			"BatteryStatus": 45,
+			"CurrentLocation": "13.158222, 80.110757",
+			"NextDeliveryLocation": "13.117873, 80.166199",
+			"NextDeliveryAddress": "Sample Address 2",
+			"LastUpdated": "24-05-2020 1245hrs",
+			"current_time": "08:30",
+			"eta_nextlocation": "09:00"
+		},
+		"00003": {
+			"name": "Nurit",
+			"BatteryStatus": 45,
+			"CurrentLocation": "13.030069, 80.229496",
+			"NextDeliveryLocation": "13.117873, 80.166199",
+			"NextDeliveryAddress": "Sample Address 2",
+			"LastUpdated": "24-05-2020 1245hrs",
+			"current_time": "08:30",
+			"eta_nextlocation": "09:00"
+		},
+		"00004": {
+			"name": "Ayub",
+			"BatteryStatus": 45,
+			"CurrentLocation": "13.148384, 80.252932",
+			"NextDeliveryLocation": "13.117873, 80.166199",
+			"NextDeliveryAddress": "Sample Address 2",
+			"LastUpdated": "24-05-2020 1245hrs",
+			"current_time": "08:30",
+			"eta_nextlocation": "09:00"
+		},
+		"00005": {
+			"name": "Doron",
+			"BatteryStatus": 45,
+			"CurrentLocation": "13.040903, 80.239635",
+			"NextDeliveryLocation": "13.117873, 80.166199",
+			"NextDeliveryAddress": "Sample Address 2",
+			"LastUpdated": "24-05-2020 1245hrs",
+			"current_time": "08:30",
+			"eta_nextlocation": "09:00"
+		},
+		"00006": {
+			"name": "Idan",
+			"BatteryStatus": 45,
+			"CurrentLocation": "13.092287, 80.163724",
+			"NextDeliveryLocation": "13.117873, 80.166199",
+			"NextDeliveryAddress": "Sample Address 2",
+			"LastUpdated": "24-05-2020 1245hrs",
+			"current_time": "08:30",
+			"eta_nextlocation": "09:00"
+		}
+	}
+}
